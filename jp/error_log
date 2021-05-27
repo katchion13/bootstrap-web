@@ -1,0 +1,16 @@
+[09-May-2020 14:18:47 America/Fortaleza] PHP Fatal error:  Uncaught Error: Call to undefined function esc_attr() in /home1/katchi47/public_html/footer.php:4
+Stack trace:
+#0 {main}
+  thrown in /home1/katchi47/public_html/footer.php on line 4
+[09-May-2020 14:19:03 America/Fortaleza] PHP Fatal error:  Uncaught Error: Call to undefined function esc_attr() in /home1/katchi47/public_html/footer.php:4
+Stack trace:
+#0 {main}
+  thrown in /home1/katchi47/public_html/footer.php on line 4
+[09-May-2020 14:19:28 America/Fortaleza] PHP Fatal error:  Uncaught Error: Call to undefined function esc_attr() in /home1/katchi47/public_html/footer.php:2
+Stack trace:
+#0 {main}
+  thrown in /home1/katchi47/public_html/footer.php on line 2
+[09-May-2020 14:19:41 America/Fortaleza] PHP Fatal error:  Uncaught Error: Call to undefined function wp_footer() in /home1/katchi47/public_html/footer.php:55
+Stack trace:
+#0 {main}
+  thrown in /home1/katchi47/public_html/footer.php on line 55
